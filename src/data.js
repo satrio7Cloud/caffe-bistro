@@ -34,7 +34,7 @@ export const heroData = {
   pretitle: 'Nothing brings together like',
   title: 'Bistro Cafe',
   subtitle:
-    'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. ',
+    'Welcome to our exclusive restaurant, where quality cuisine meets friendly service. We are proud to serve delicious dishes that will pamper your taste buds and create an unforgettable culinary experience',
   btnText: 'Find out more',
 };
 
@@ -50,7 +50,7 @@ export const aboutData = {
   pretitle: 'our story',
   title: 'who we are',
   subtitle:
-    'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet consequatur, quasi minima molestiae ex exercitationem culpa quisquam architecto quaerat, iusto dolores labore, sapiente magni rem commodi aperiam ad dolorem neque ducimus. Placeat vel non quod quis pariatur a aperiam, aliquam adipisci voluptatum voluptatem sit cupiditate dolore natus beatae earum omnis.',
+    'We are committed to serving the highest quality food with fresh and local ingredients. Our chefs have experience in combining delicious flavors with beautiful presentations.',
   btnText: 'find out more',
   image: AboutImg,
 };
@@ -64,26 +64,26 @@ export const menuData = {
     {
       image: MenuImg1,
       name: 'Chocolate Cake',
-      price: '$7.99',
-      description: 'Class aptent taciti ciosqu litora torquent per',
+      price: 'Rp 25k',
+      description: 'The perfect cake must look great, feel fantastic, and test delicious.',
     },
     {
       image: MenuImg2,
-      name: 'Veggie Burger',
-      price: '$9.49',
+      name: 'Quen Burger',
+      price: 'Rp 30k',
       description: 'Class aptent taciti ciosqu litora torquent per',
     },
     {
       image: MenuImg3,
-      name: 'King Burger',
-      price: '$8.50',
-      description: 'Class aptent taciti ciosqu litora torquent per',
+      name: 'Special Burger',
+      price: 'Rp 35k',
+      description: 'Our Burger King is equipped with a special burger sauce',
     },
     {
       image: MenuImg4,
-      name: 'Mexican Burger',
-      price: '$9.99',
-      description: 'Class aptent taciti ciosqu litora torquent per',
+      name: 'Burger Beef',
+      price: 'Rp 30k',
+      description: 'Fresh, high-quality beef, prepared with special spices',
     },
   ],
 };
@@ -91,8 +91,8 @@ export const menuData = {
 export const teamData = {
   pretitle: 'our team',
   title: 'meet our chef',
-  sub1: ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis adipisci repudiandae enim ratione corrupti voluptatum suscipit distinctio dolor.',
-  sub2: 'Sequi exercitationem quae deserunt reiciendis nesciunt perferendis atque quisquam, odit facere! Minima esse reiciendis, magnam fugiat totam maxime consequatur perspiciatis voluptas consequuntur.',
+  sub1: ' Chef Sara Peter has worked in several leading restaurants around the world, which helped him gain valuable experience in a variety of international cuisines. He is a flavor explorer who is always looking for new inspiration to create unique and delicious dishes.',
+  sub2: 'Chef Sara Peter has worked in several leading restaurants around the world, which helped gain valuable experience in a variety of international cuisines. He is a flavor explorer who is always looking for new inspiration to create unique and delicious dishes.',
   name: 'sara peter',
   occupation: 'executive chef',
   signatureImg: SignatureImg,
@@ -106,21 +106,21 @@ export const testimonialData = {
   slider: [
     {
       message:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quas ipsum eius voluptatibus. Quod ipsum ullam id facere a beatae incidunt eaque, veritatis architecto cum perferendis debitis tempora.',
+        'We hope Sara Perter will come back to our restaurant and give us the opportunity to celebrate more extraordinary culinary experiences together. Thanks for visiting, Rick Thompson and we hope to welcome you again soon!”',
       image: Avatar1,
       name: 'Rick Thompson',
       occupation: 'CEO of Delightful',
     },
     {
       message:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quas ipsum eius voluptatibus. Quod ipsum ullam id facere a beatae incidunt eaque, veritatis architecto cum perferendis debitis tempora.',
+        'We would also like to thank John Doe for his positive feedback about our services. Your honesty and support means a lot to us, and we always strive to maintain the highest standards in our service.',
       image: Avatar2,
       name: 'John Doe',
       occupation: 'CEO of Delightful',
     },
     {
       message:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quas ipsum eius voluptatibus. Quod ipsum ullam id facere a beatae incidunt eaque, veritatis architecto cum perferendis debitis tempora.',
+        'Henry A. is always a pleasant guest. His visits always improve the atmosphere of the restaurant."',
       image: Avatar3,
       name: 'Henry A.',
       occupation: 'CEO of Delightful',
